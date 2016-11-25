@@ -1,0 +1,53 @@
+C:\Users\spinn\Documents\Visual Studio 2015\Projects\HTML+CSS\HTML+CSS\bin\Debug\HTML+CSS.exe.config
+C:\Users\spinn\Documents\Visual Studio 2015\Projects\HTML+CSS\HTML+CSS\bin\Debug\HTML+CSS.exe
+C:\Users\spinn\Documents\Visual Studio 2015\Projects\HTML+CSS\HTML+CSS\bin\Debug\HTML+CSS.pdb
+C:\Users\spinn\Documents\Visual Studio 2015\Projects\HTML+CSS\HTML+CSS\obj\Debug\HTML+CSS.csprojResolveAssemblyReference.cache
+C:\Users\spinn\Documents\Visual Studio 2015\Projects\HTML+CSS\HTML+CSS\obj\Debug\HTML_CSS.Form1.resources
+C:\Users\spinn\Documents\Visual Studio 2015\Projects\HTML+CSS\HTML+CSS\obj\Debug\HTML_CSS.Properties.Resources.resources
+C:\Users\spinn\Documents\Visual Studio 2015\Projects\HTML+CSS\HTML+CSS\obj\Debug\HTML+CSS.csproj.GenerateResource.Cache
+C:\Users\spinn\Documents\Visual Studio 2015\Projects\HTML+CSS\HTML+CSS\obj\Debug\HTML+CSS.exe
+C:\Users\spinn\Documents\Visual Studio 2015\Projects\HTML+CSS\HTML+CSS\obj\Debug\HTML+CSS.pdb
+F:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\bin\Debug\HTML+CSS.exe.config
+F:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\obj\Debug\HTML+CSS.exe
+F:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\obj\Debug\HTML+CSS.pdb
+F:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\bin\Debug\HTML+CSS.exe
+F:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\bin\Debug\HTML+CSS.pdb
+F:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\obj\Debug\HTML+CSS.csprojResolveAssemblyReference.cache
+F:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\obj\Debug\HTML_CSS.Form1.resources
+F:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\obj\Debug\HTML_CSS.Properties.Resources.resources
+F:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\obj\Debug\HTML+CSS.csproj.GenerateResource.Cache
+E:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\bin\Debug\HTML+CSS.exe.config
+E:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\obj\Debug\HTML+CSS.exe
+E:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\obj\Debug\HTML+CSS.pdb
+D:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\bin\Debug\HTML+CSS.exe.config
+D:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\obj\Debug\HTML+CSS.exe
+D:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\obj\Debug\HTML+CSS.pdb
+D:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\bin\Debug\HTML+CSS.exe
+D:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\bin\Debug\HTML+CSS.pdb
+D:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\obj\Debug\HTML+CSS.csprojResolveAssemblyReference.cache
+D:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\obj\Debug\HTML_CSS.Form1.resources
+D:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\obj\Debug\HTML_CSS.Properties.Resources.resources
+D:\Scuola\Quarta Superiore\Informatica\HTML + CSS - Spinnato Lorenzo\HTML+CSS\HTML+CSS\obj\Debug\HTML+CSS.csproj.GenerateResource.Cache
+E:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\bin\Debug\HTML+CSS.exe.config
+E:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML+CSS.exe
+E:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML+CSS.pdb
+E:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\bin\Debug\HTML+CSS.exe
+E:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\bin\Debug\HTML+CSS.pdb
+E:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML+CSS.csprojResolveAssemblyReference.cache
+E:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML_CSS.Form1.resources
+E:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML_CSS.Properties.Resources.resources
+E:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML+CSS.csproj.GenerateResource.Cache
+E:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML_CSS.Form2.resources
+F:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\bin\Debug\HTML+CSS.exe.config
+F:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML+CSS.exe
+F:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML+CSS.pdb
+F:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\bin\Debug\HTML+CSS.exe
+F:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\bin\Debug\HTML+CSS.pdb
+F:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML+CSS.csprojResolveAssemblyReference.cache
+F:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML_CSS.Form1.resources
+F:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML_CSS.Form2.resources
+F:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML_CSS.Properties.Resources.resources
+F:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML+CSS.csproj.GenerateResource.Cache
+L:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\bin\Debug\HTML+CSS.exe.config
+L:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML+CSS.exe
+L:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML+CSS.pdb

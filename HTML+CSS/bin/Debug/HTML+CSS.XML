@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HTML+CSS</name>
+    </assembly>
+    <members>
+        <member name="F:HTML_CSS.Form1.components">
+            <summary>
+            Variabile di progettazione necessaria.
+            </summary>
+        </member>
+        <member name="M:HTML_CSS.Form1.Dispose(System.Boolean)">
+            <summary>
+            Pulire le risorse in uso.
+            </summary>
+            <param name="disposing">ha valore true se le risorse gestite devono essere eliminate, false in caso contrario.</param>
+        </member>
+        <member name="M:HTML_CSS.Form1.InitializeComponent">
+            <summary>
+            Metodo necessario per il supporto della finestra di progettazione. Non modificare
+            il contenuto del metodo con l'editor di codice.
+            </summary>
+        </member>
+        <member name="F:HTML_CSS.Form2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HTML_CSS.Form2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HTML_CSS.Form2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:HTML_CSS.Program.Main">
+            <summary>
+            Punto di ingresso principale dell'applicazione.
+            </summary>
+        </member>
+        <member name="T:HTML_CSS.Properties.Resources">
+            <summary>
+              Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+            </summary>
+        </member>
+        <member name="P:HTML_CSS.Properties.Resources.ResourceManager">
+            <summary>
+              Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+            </summary>
+        </member>
+        <member name="P:HTML_CSS.Properties.Resources.Culture">
+            <summary>
+              Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+              ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+            </summary>
+        </member>
+    </members>
+</doc>

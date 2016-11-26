@@ -24,25 +24,17 @@ namespace HTML_CSS
             InitializeComponent();
             new Form2().ShowDialog();
         }
-        /// <summary>
-        /// Al caricamento della form viene eseguito un controllo sui file
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+        
         private void Form1_Load(object sender, EventArgs e)
         {
-            if (!System.IO.Directory.Exists(@"C:\htmlpreview")) //Si controlla l'esistenza della cartella all'interno della partizione C:\
+            if (!System.IO.Directory.Exists(@"C:\htmlpreview"))
             {
-                System.IO.Directory.CreateDirectory(@"C:\htmlpreview"); //In caso contrario viene creata
+                System.IO.Directory.CreateDirectory(@"C:\htmlpreview");
             }
             this.dir = Form2.dir;
             this.dircss = Form2.dircss;
         }
-        /// <summary>
-        /// Al cambiamento della richboxtext1 viene effettuato un salvataggio automatico del file .html
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+        
         private void richTextBox1_TextChanged(object sender, EventArgs e) 
         {
             System.IO.File.WriteAllText(dir, string.Empty);
@@ -51,11 +43,7 @@ namespace HTML_CSS
             file.Close();
             webBrowser1.Navigate(dir);
         }
-        /// <summary>
-        /// Al cambiamento della richboxtext2 viene effettuato un salvataggio automatico del file .css
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+        
         private void richTextBox2_TextChanged(object sender, EventArgs e) 
         {
             System.IO.File.WriteAllText(dircss, string.Empty);

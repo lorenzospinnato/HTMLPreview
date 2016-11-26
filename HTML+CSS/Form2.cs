@@ -22,22 +22,18 @@ namespace HTML_CSS
         {
             InitializeComponent();
         }
-        /// <summary>
-        /// Al click del pulsante viene creata la cartella nel percorso indicato
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+        
         private void button1_Click(object sender, EventArgs e)
         {
-            if (!System.IO.Directory.Exists(@"C:\htmlpreview")) //Si controlla l'esistenza della cartella all'interno della partizione C:\
+            if (!System.IO.Directory.Exists(@"C:\htmlpreview"))
             {
-                System.IO.Directory.CreateDirectory(@"C:\htmlpreview"); //In caso contrario viene creata
+                System.IO.Directory.CreateDirectory(@"C:\htmlpreview");
             }
             filecss = textBox2.Text;
             dircss = @"C:\htmlpreview\" + filecss + ".css";
 
             
-            if (textBox2.Text != "") //Viene creato il file .css
+            if (textBox2.Text != "")
             {
                 using (System.IO.File.Create(dircss)) { };
             }
@@ -48,7 +44,7 @@ namespace HTML_CSS
             filehtml = textBox1.Text;
             dir = @"C:\htmlpreview\" + filehtml + ".html";
 
-            if (textBox1.Text != "") //Viene creato il file.html
+            if (textBox1.Text != "")
             {
                 using (System.IO.File.Create(dir)) { };
                 this.Hide();

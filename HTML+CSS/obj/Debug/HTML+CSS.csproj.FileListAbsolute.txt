@@ -51,3 +51,4 @@ F:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML+CSS.
 L:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\bin\Debug\HTML+CSS.exe.config
 L:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML+CSS.exe
 L:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\obj\Debug\HTML+CSS.pdb
+F:\Scuola\Quarta Superiore\Informatica\HTML Preview\HTML+CSS\bin\Debug\HTML+CSS.XML
